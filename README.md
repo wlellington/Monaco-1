@@ -2,6 +2,7 @@
 Monaco-1 Polyphonic Analog Modeling Digital Synth
 
 ## Features
+* Complex Subtractive Synthesis Signal Path
 * 6 Voice Polyphony (6 Notes at once)
 * 2 De-tunable Oscillators with variable Waveshape
 * Low, Band, and High Pass filter with variable Resonance
